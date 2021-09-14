@@ -1,0 +1,22 @@
+{
+    "name": "qingfengai/qingfeng-barcode",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0",
+        "ext-gd": "*",
+        "topthink/framework": "^6.0.0"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "CodeItNow\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "情枫",
+            "email": "752802786@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
